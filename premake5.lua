@@ -11,7 +11,7 @@ workspace "Pistachio"
 outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
 
 project "Pistachio"
-	location "PistachioEngine"
+	location "Pistachio"
 	kind "SharedLib"
 	language "C++"
 
